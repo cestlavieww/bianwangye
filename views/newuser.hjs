@@ -1,0 +1,5 @@
+<form id="formAddUser" name="adduser" method="post" action="/adduser">
+	<input id="inputUserName" type="text" placeholder="username" name="username" />
+	<input id="inputUserEmail" type="text" placeholder="useremail" name="useremail" />
+	<input id="btnSubmit" type="submit" value="submit"/>
+</form>
